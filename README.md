@@ -1,4 +1,5 @@
 # Criação de Token ERC20 na Testnet da BSC
+[Token Contract: 0x337A6Dd968f2c4a7e4cf77e1C8E7Ee2dEfe03994](https://testnet.bscscan.com/address/0x337a6dd968f2c4a7e4cf77e1c8e7ee2defe03994)
 (Este Guia será aprimorado em breve)
 
 Este guia descreve os passos necessários para criar um token ERC20 na testnet da Binance
@@ -20,8 +21,7 @@ Smart Contract Atualizado
 2. Abra um terminal e navegue até o diretório onde o contrato está localizado.
 3. Utilize um compilador Solidity, como o solc, para compilar o contrato.
 ## Passo 4: Implantação na Testnet da BSC
-1. Acesse a testnet da BSC através de uma ferramenta de desenvolvimento como MetaMask
-ou Binance Chain Wallet.
+1. Acesse a testnet da BSC e verifique o link da hash de transação: https://testnet.bscscan.com/tx/0xe1d536ba07c6b72595e427411dbcd7df2916914ba22c4fef920d3875284d7669
 2. Obtenha alguns tokens de teste para cobrir as taxas de transação.
 3. Implante o contrato na testnet da BSC, seguindo as instruções específicas da ferramenta
 que você está utilizando.
