@@ -1,4 +1,5 @@
 # Criação de Token ERC20 na Testnet da BSC
+(Este Guia será aprimorado em breve)
 
 Este guia descreve os passos necessários para criar um token ERC20 na testnet da Binance
 Smart Chain (BSC), utilizando um código base fornecido pela DIO.
